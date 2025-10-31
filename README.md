@@ -5,7 +5,7 @@ Predicting Expected CTC (salary) for job applicants using machine learning. This
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-yellow?logo=pandas)
 ![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange?logo=scikit-learn)
-![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---

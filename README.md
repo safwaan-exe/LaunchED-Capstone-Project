@@ -109,8 +109,8 @@ Tested multiple regression models:
 ### 🪄 1. Clone the Repository
 ```bash
 git clone https://github.com/safwaan-exe/LaunchED-Capstone-Project.git
-cd LaunchED-Capstone-Project```
-```markdown
+cd LaunchED-Capstone-Project
+```
 
 ---
 

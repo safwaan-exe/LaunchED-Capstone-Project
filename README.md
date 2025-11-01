@@ -114,6 +114,12 @@ cd LaunchED-Capstone-Project
 
 ---
 
+### 🏫 **Project Context**
+This project was developed as part of the **LaunchED Capstone Project**, focusing on real-world applications of machine learning in HR analytics.
+
+---
+
+
 ### 💬 **Quote**
 > *“Data-driven hiring decisions lead to fairer outcomes — and machine learning makes that possible.”*
 
